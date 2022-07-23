@@ -9,7 +9,7 @@ cl = None
 strt = "https://server.duinocoin.com"
 init(autoreset=True)
 print(Fore.BLUE + "hello welcome to cmd wallet")
-oper = int(input(Fore.LIGHTCYAN_EX + """please choose your os : 
+oper = int(input(Fore.CYAN + """please choose your os : 
 [1] windows
 [2] linux , mac
  """))
